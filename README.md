@@ -16,11 +16,9 @@ data. 5.Predict placement status and evaluate the model using accuracy and confu
 
 ## Program:
 ```
-/*
-Program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
 Developed by: PRIYANKA B
 RegisterNumber:  212224060197
-*/
+
 import pandas as pd
 import numpy as np
 
